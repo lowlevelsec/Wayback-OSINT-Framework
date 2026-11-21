@@ -1,4 +1,4 @@
-# Wayback OSINT
+# Wayback OSINT-Framework
 
 A small Python CLI for researching public captures in the Internet Archive's Wayback Machine CDX index. It accepts ordinary URLs and bare Instagram usernames, exports capture metadata, builds replay links, and can optionally save selected raw archived responses for local inspection.
 
